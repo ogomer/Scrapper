@@ -1,0 +1,3 @@
+values = WEABE20, WEACJ20, AAMBQ20, AAMBW20, WEABF20, WEACL20, WEACT20, WEACC20
+driver = chrome/chromedriver2.exe
+path = C:/sources/
